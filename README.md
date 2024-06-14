@@ -8,6 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manish-kumar-prasad-5205b0130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-kumar-prasad-5205b0130/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Coding Profile:</h3>
+<p align="left">
 <a href="https://leetcode.com/u/manishraz32/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/manishraz32/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/manishraz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/manishraz/" height="30" width="40" /></a>
 </p>
